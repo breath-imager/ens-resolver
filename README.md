@@ -1,1 +1,1 @@
-# ens-resolver
+Smol tool to resolve ens domains to their raw address. Takes a JSON file and reults in two JSON files, one for resolved ENS, another for unresolved domains.
